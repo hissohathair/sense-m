@@ -1,0 +1,6 @@
+[submodule "data-market"]
+	path = data-market
+	url = git@github.com:hissohathair/data-market.git
+[submodule "openPDS"]
+	path = openPDS
+	url = git@github.com:hissohathair/openPDS.git
