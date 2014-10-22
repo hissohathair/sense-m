@@ -4,3 +4,6 @@
 [submodule "openPDS"]
 	path = openPDS
 	url = git@github.com:hissohathair/openPDS.git
+[submodule "sense-chrome-extension"]
+	path = sense-chrome-extension
+	url = git@github.com:sbalko/sense-chrome-extension.git
